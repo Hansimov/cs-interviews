@@ -14,6 +14,8 @@
   * [https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)
 * 后台开发秋招面试总结，很详细，真干货 - 知乎 
   * [https://zhuanlan.zhihu.com/p/30331478](https://zhuanlan.zhihu.com/p/30331478)
+* 腾讯后台开发一面二面纪实笔经面经牛客网 
+  * [https://www.nowcoder.com/discuss/5082](https://www.nowcoder.com/discuss/5082)
 
 
 
