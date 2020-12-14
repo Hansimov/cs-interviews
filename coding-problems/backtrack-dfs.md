@@ -109,5 +109,34 @@ public:
 {% endtab %}
 {% endtabs %}
 
+## 0047 全排列 II
 
+题目：[https://leetcode-cn.com/problems/permutations-ii/](https://leetcode-cn.com/problems/permutations-ii/)
+
+标签：回溯
+
+### 精选题解
+
+* 官方题解
+  * [https://leetcode-cn.com/problems/permutations-ii/solution/quan-pai-lie-ii-by-leetcode-solution/](https://leetcode-cn.com/problems/permutations-ii/solution/quan-pai-lie-ii-by-leetcode-solution/)
+
+### 关键思路
+
+要解决重复问题，只需保证在填第 i 个数时，重复数字只被填入一次。方法：**对原数组排序，保证相同数字都相邻，然后每次填入的数一定是这个数所在重复数集合中「从左往右第一个未被填过的数字」**，即如下的判断条件：
+
+```cpp
+if (i > 0 && nums[i] == nums[i - 1] && !vis[i - 1]) {
+    continue;
+}
+```
+
+假如排完序后的完整数组 nums 中有三个连续的数，那么一定只有如下 4 种状态：\[×, ×, ×\]，\[√, ×, ×\]，\[√, √, ×\]，\[√, √, √\]。（√ 表示已在生成的数组中，× 表示未在生成的数组中。）
+
+### 复杂度
+
+时间复杂度：O\(n\*n!\)。回溯复杂度 O\(n!\)；每次新的生成数组需要复制 n 个元素。
+
+空间复杂度：SO\(n\)。长度为 n 的标记数组；递归时深度最大为 n。
+
+详见官方题解。
 
