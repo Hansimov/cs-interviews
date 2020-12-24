@@ -4,8 +4,19 @@
 
 ## 参考链接
 
+### 必读
+
 * CyC2018/CS-Notes: 技术面试必备基础知识
   * [https://github.com/CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
+  * [https://www.cyc2018.xyz/](https://www.cyc2018.xyz/)
+* huihut/interview: 📚 C/C++ 技术面试基础知识总结
+  * [https://github.com/huihut/interview](https://github.com/huihut/interview)
+  * [https://interview.huihut.com/\#/](https://interview.huihut.com/#/)
+* 超全面的后端开发C/C++面经整理分享
+  * [https://www.nowcoder.com/discuss/489210](https://www.nowcoder.com/discuss/489210)
+
+### 选读
+
 * HIT-Alibaba/interview: 笔试面试知识整理
   * [https://github.com/HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview)
 * 最常见的12道计算机网络面试题 \| Just Do Java

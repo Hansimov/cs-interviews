@@ -1,6 +1,7 @@
 # Table of contents
 
 * [本书信息](README.md)
+* [时间管理 🕒](schedule.md)
 * [C++](cpp.md)
 * [计算机网络](network.md)
 * [操作系统](os.md)
