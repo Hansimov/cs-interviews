@@ -1,6 +1,6 @@
 ## 参考链接
 
-### 必读
+<!-- ### 必读 -->
 
 * CyC2018/CS-Notes: 技术面试必备基础知识
   * [https://github.com/CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
@@ -11,6 +11,7 @@
 * 超全面的后端开发C/C++面经整理分享
   * [https://www.nowcoder.com/discuss/489210](https://www.nowcoder.com/discuss/489210)
 
+<!-- 
 ### 选读
 
 * HIT-Alibaba/interview: 笔试面试知识整理
@@ -21,3 +22,5 @@
   * [https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)
 * 后台开发秋招面试总结，很详细，真干货 - 知乎 
   * [https://zhuanlan.zhihu.com/p/30331478](https://zhuanlan.zhihu.com/p/30331478)
+
+ -->
